@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prova_Github", "Prova_Github\Prova_Github.csproj", "{5781CC76-FD7C-4063-B0A3-E3EF0D54E384}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoLibrary2", "DemoLibrary2\DemoLibrary2.csproj", "{DE5F3F8B-B16C-41AE-9E0A-BB1CCA0FE60C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5781CC76-FD7C-4063-B0A3-E3EF0D54E384}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5781CC76-FD7C-4063-B0A3-E3EF0D54E384}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5781CC76-FD7C-4063-B0A3-E3EF0D54E384}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5781CC76-FD7C-4063-B0A3-E3EF0D54E384}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE5F3F8B-B16C-41AE-9E0A-BB1CCA0FE60C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE5F3F8B-B16C-41AE-9E0A-BB1CCA0FE60C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE5F3F8B-B16C-41AE-9E0A-BB1CCA0FE60C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE5F3F8B-B16C-41AE-9E0A-BB1CCA0FE60C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C242B1C-595B-4BC8-BAB5-5E989870B4A8}
+	EndGlobalSection
+EndGlobal
